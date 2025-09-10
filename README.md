@@ -12,7 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -23,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://adarsh0543.github.io/Qr-code-challenge/)
 
 ## My process
 
@@ -44,5 +42,5 @@ I have used simple methods to adjust the alignment in specific areas using margi
 
 ## Author
 
-- Frontend Mentor - [@Adarsh0543](https://https://www.frontendmentor.io/profile/Adarsh0543)
+- Frontend Mentor - [@Adarsh0543](https://www.frontendmentor.io/profile/Adarsh0543)
 
